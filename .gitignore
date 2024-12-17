@@ -3,9 +3,10 @@ backend/appointments.db
 backend/appointments.db-shm
 backend/appointments.db-wal
 
-backend/__init__.py
+backend/app/__init__.py
 
-backend/__pycache__/
+
+backend/app/__pycache__/
 backend/*.py[cod]
 backend/*$py.class
 backend/.env
