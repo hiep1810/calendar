@@ -1,0 +1,43 @@
+# Backend
+backend/appointments.db
+backend/appointments.db-shm
+backend/appointments.db-wal
+
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/.env
+backend/.venv
+backend/env/
+backend/venv/
+backend/.pytest_cache/
+backend/coverage/
+backend/.coverage
+backend/htmlcov/
+backend/*.log
+backend/logs/
+backend/db.sqlite3
+
+# Frontend
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+frontend/.env*.local
+frontend/.env
+frontend/.DS_Store
+frontend/*.pem
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
